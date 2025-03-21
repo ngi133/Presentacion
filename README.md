@@ -2,9 +2,7 @@ Eduardo Daniel Arizza
 
 Mis datos personales
 
-
-![9](https://github.com/user-attachments/assets/75d0f0ec-66d5-40d6-ae4b-a7e7cec05a24)
-
+![9](https://github.com/user-attachments/assets/75d0f0ec-66d5-40d6-ae4b-a7e7cec05a24)<
 
 *	Edad: 58 años![Uploading 9.jpg…]()
 *	Casado con una docente que cursa también en UNPAZ 
