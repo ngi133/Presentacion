@@ -1,4 +1,4 @@
-#Eduardo Daniel Arizza 
+Eduardo Daniel Arizza 
 
 Mis datos personales
 
