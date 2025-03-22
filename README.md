@@ -10,3 +10,4 @@ Mis datos personales
 *	Tres hijos (uno cursando conmigo la carrera)
 *	Me gusta la música, el básquet y el futbol
 *	Lenguajes de programación vistos: C, C#, JavaScript
+*	Correo electrónico: eduykary2016@gmail.com
