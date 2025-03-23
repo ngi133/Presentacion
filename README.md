@@ -1,6 +1,6 @@
 <h1 align="center"> Eduardo Daniel Arizza </h1>
 
-Mis datos personales
+<h2> Mis datos personales </h1>
 
 ![9](https://github.com/user-attachments/assets/75d0f0ec-66d5-40d6-ae4b-a7e7cec05a24)<
 
