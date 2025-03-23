@@ -1,6 +1,6 @@
-Eduardo Daniel Arizza 
+#Eduardo Daniel Arizza 
 
-Mis datos personales
+##Mis datos personales
 
 ![9](https://github.com/user-attachments/assets/75d0f0ec-66d5-40d6-ae4b-a7e7cec05a24)<
 
