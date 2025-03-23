@@ -2,14 +2,15 @@
 
 <h2> Mis datos personales </h1>
 
-![9](https://github.com/user-attachments/assets/75d0f0ec-66d5-40d6-ae4b-a7e7cec05a24)<
+![56190_78](https://github.com/user-attachments/assets/b09ea4c6-c30d-4080-a81b-7d666355d3a5)
 
 
 *	Edad: 58 años
-*	Casado con una docente que cursa también en UNPAZ 
-*	Tres hijos (uno cursando conmigo la carrera)
-*	Me gusta la música, el básquet y el futbol
-*	Lenguajes de programación vistos: C, C#, JavaScript
+*	Casado con una docente que cursa otra carrera en UNPAZ. 
+*	Tres hijos (uno cursando conmigo la carrera).
+*	23 materias aprobadas.
+*	Me gusta la música, el básquet, el futbol y un buen asado.
+*	Lenguajes de programación vistos: C, C#, JavaScript.
 
 
   
