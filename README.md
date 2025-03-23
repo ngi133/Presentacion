@@ -1,4 +1,4 @@
-<em> # Eduardo Daniel Arizza </em> 
+<h1 align="center"> Eduardo Daniel Arizza </h1>
 
 Mis datos personales
 
